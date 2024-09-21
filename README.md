@@ -23,7 +23,6 @@ The project involves two main datasets:
 
 Key steps taken during data analysis:
 - **Missing Data Handling**: Missing values were filled using techniques like KNN and Simple Imputer.
-- **Gender and Birthdate Processing**: Gender and birthdate fields were cleaned and transformed for modeling.
 - **Data Cleaning**: Text fields were processed and converted into numeric formats.
 
 
