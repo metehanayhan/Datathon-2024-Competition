@@ -32,10 +32,6 @@ Key steps taken during data analysis:
 The model with the lowest RMSE was selected as the final model. Detailed performance metrics are provided in the results section of the project.
 
 
-## Contact
-
-For any inquiries about this project, feel free to reach out to [Metehan Ayhan](mailto:metehanayhan1213@gmail.com).
-
 [TR]
 
 # Datathon 2024 - Evaluation Score Prediction Project
@@ -80,7 +76,3 @@ Veri analizi sırasında izlenen temel adımlar:
 En düşük **RMSE** değerine sahip model, nihai model olarak seçilmiştir. Model performansıyla ilgili detaylı metrikler projenin sonuç bölümünde paylaşılmıştır.
 
 ---
-
-## İletişim
-
-Bu projeyle ilgili herhangi bir soru için [Metehan Ayhan](mailto:metehanayhan1213@gmail.com) ile iletişime geçebilirsiniz.
